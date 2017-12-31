@@ -8,3 +8,6 @@ The code contains an example of how to use (yes! 55 lines already contains an ex
 2. Add blocks to it
 
 In the code, we added a random number as our data, but data can be of any type.
+
+## License
+GNU General Public License v3.0
